@@ -1,0 +1,2 @@
+str="Career is more important, Study hard for your Career"
+print(str.count("Career"))
